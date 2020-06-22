@@ -5,7 +5,7 @@
 
 Assista o vídeo:
 
-[![Image](https://img.youtube.com/vi/TIZ1PNH0128/mqdefault.jpg "Vídeo no Youtube")](https://youtu.be/TIZ1PNH0128)
+[![Image](https://img.youtube.com/vi/wGwikwPrACA/mqdefault.jpg "Vídeo no Youtube")](https://youtu.be/wGwikwPrACA)
 
 ## Sumário
 - [O que você vai aprender](#O-que-você-vai-aprender)
