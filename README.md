@@ -38,7 +38,7 @@ Assista o vídeo:
   - Create a virtual hard disk now
   - VDI
   - Dynamically allocated
-  - 10 GB
+  - 20 GB
 
 ### Instalar Ubuntu
 - Google: Ubuntu Download
